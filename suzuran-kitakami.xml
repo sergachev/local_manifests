@@ -2,7 +2,7 @@
 <!--Please do not manually edit this file-->
 <manifest>
 <!--devices-->
-  <project name="sergachev/device_sony_suzuran"             path="device/sony/suzuran"         remote="github" revision="cr-5.1" />
+  <project name="sergachev/device_sony_suzuran"             path="device/sony/suzuran"         remote="github" revision="cr-6.1" />
 <!--vendor-->
   <project name="nzzane/android_vendor_suzuran"             path="vendor/sony/suzuran"         remote="github" revision="master" />
 </manifest>
